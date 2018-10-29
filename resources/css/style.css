@@ -6,7 +6,32 @@ body {
   text-align: center;
   color: white;
 }
+.intro h1 {
+  font-size: 70px;
+}
 .nav {
   font-size: 18px;
   color: white;
+}
+h1,h2,h3 {
+  font-weight: bold;
+}
+.supporting {
+  text-align: center;
+}
+.supporting h3 {
+  font-size: 32px;
+}
+.supporting h2 {
+  font-size: 23px;
+}
+.supporting p {
+  font-size: 14px;
+}
+.intro h2 {
+  font-size: 23px;
+}
+.footer {
+  font-size: 11px;
+  background-color: dimgray;
 }
